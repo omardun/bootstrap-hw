@@ -1,0 +1,112 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.header{
+    background-color: black;
+    margin-top: 0;
+}
+.h1header {
+    color: rgb(209, 143, 61);
+    font-family: Georgia;
+}
+.h6header {
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5px;
+}
+.maincontainer {
+    background-color: rgb(255, 255, 255);
+    margin: 30px 10px;
+}
+.hours {
+    background-color: rgb(31, 162, 162);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.hours > p {
+    color: rgb(0, 0, 0);
+    font-family:fantasy ;
+}
+.hours > h1 {
+    color: rgb(209, 143, 61);
+    font-weight: bold;
+}
+.welcome > h1 {
+    text-align: center;
+    color: rgba(243, 180, 8, 0.851);
+    font-family: 'Koulen', cursive;
+    font-size: 60px;
+}
+.text-center > blockquote {
+    background-color: rgb(255, 255, 255);
+    margin: 30px;
+}
+/* contact page */
+.subheading {
+    text-align: center;
+}
+.info {
+    text-align:start;
+    margin: 50px;
+}
+.send {
+    text-align: center;
+}
+
+/* About us page */
+.subheading3 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.text-center {
+    color: rgb(215, 69, 69);
+    line-height: 50px;
+    font-family: monospace;
+}
+.facebook {
+    text-align: center;
+}
+.facebook > p {
+    color: rgb(136, 0, 255);
+    font-size: 25px;
+    font-family: fantasy;
+}
+.call{
+    text-align: center;
+}
+.call > p{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+    font-family: fantasy;
+    color: rgb(136, 0, 255);
+}
+.email{
+    text-align: center;
+}
+.email > p {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: fantasy;
+    color: rgb(2, 2, 3);
+}
+/* Gallery page */
+.gallery1 {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    
+}
+.gallery2 {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.gallery3 {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
